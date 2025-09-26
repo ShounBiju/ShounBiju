@@ -30,7 +30,7 @@ Welcome to my portfolio, where I showcase my projects.
 ---
 
 ## 👋🏻 Connect with Me  
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/shounbiju/))  
+- [LinkedIn](https://www.linkedin.com/in/shounbiju/)
 - [GitHub](https://github.com/ShounBiju)  
 - [Medium]
 - [Portfolio]
